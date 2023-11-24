@@ -1,0 +1,1 @@
+(self.webpackChunkauth_etos=self.webpackChunkauth_etos||[]).push([[6728,6472],{6728:(e,s,n)=>{n.r(s),n.d(s,{VERSION:()=>a});const a=new(n(5247).Version)("17.0.1")}}]);
